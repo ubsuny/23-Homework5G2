@@ -40,6 +40,8 @@ Scientific computing: The FFT is used to solve a wide variety of scientific comp
 
 # Process:
 ## Code explanation:
+## Useful Unit
+Our data changes with seasons, so we chosed the useful unit as cycles per year to estimate the peak frequency using the function defined.
 ### Frquency:
 --------------
 Step 1: Import Libraries and Load Data
@@ -88,6 +90,7 @@ The cleaned raw data, obtained from the IFFT, is plotted as a time series with e
 
 
 ## Plots and graphs:
+!<img width="487" alt="Initial_plot 1" src="https://github.com/ubsuny/23-Homework5G2/assets/72980895/1178efaa-ee8d-408e-8d71-2e75b1b88d86">
 
 ![Unknown-6](https://github.com/yasmensarhan27/23-Homework5G2/assets/38404107/38af2d25-d3eb-437d-81d5-d48d2b4f29fe)
 ![Unknown-7](https://github.com/yasmensarhan27/23-Homework5G2/assets/38404107/7a79fbe5-42bd-4573-8358-d7f85b4c3fa7)
@@ -107,4 +110,4 @@ The linting after fixing trials reached 8.69/10:
 [2] [Fast Fourier Transform](https://mathworld.wolfram.com/FastFourierTransform.html)
 
 [3] [Python Numerical Methods Chapter 24](https://pythonnumericalmethods.berkeley.edu/notebooks/chapter24.03-Fast-Fourier-Transform.html)
-
+[4] [https://github.com/ubsuny/CompPhys]

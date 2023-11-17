@@ -1,0 +1,2 @@
+St. Croix, Virgin Islands, United States (AVI)
+  URL: [https://gml.noaa.gov/aftp/data/trace_gases/co2/flask/surface/txt/co2_avi_surface-flask_1_ccgg_month.txt]
